@@ -17,8 +17,7 @@ export default {
     return{
       skills: [
         {"skill": "Vue.js"},
-        {"skill": "Frontend"},
-
+        {"skill": "Frontend"}
       ]
     }
   }
